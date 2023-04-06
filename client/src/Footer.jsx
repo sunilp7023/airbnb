@@ -76,8 +76,8 @@ export default function Footer() {
           </p>
           <p>
             &copy; 2023{" "}
-            <a href="https://codingpulses.github.io/my-Personal-portfolio/" target="_blank" rel="noreferrer">
-             Designed and devloped by- Rajat Tripathi
+            <a href="https://github.com/sunilp7023/airbnb.git" target="_blank" rel="noreferrer">
+             Designed and devloped by-Sunil Kumar
             </a>
           </p>
         </span>
