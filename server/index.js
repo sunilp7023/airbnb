@@ -34,7 +34,7 @@ app.use(function (req, res, next) {
   }
 });
 mongoose.set('strictQuery', false);
-mongoose.connect('mongodb+srv://sunilp7023:sunilp7023@cluster0.gye6qxe.mongodb.net/?retryWrites=true&w=majority');
+mongoose.connect('mongodb+srv://sunilp7023:sunil7023@cluster0.gye6qxe.mongodb.net/?retryWrites=true&w=majority');
 
 function getUserDataFromReq(req) {
   return new Promise((resolve, reject) => {
